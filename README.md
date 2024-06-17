@@ -3,4 +3,4 @@ Reverse vowels of a string
 
 Solution approach 
 
-Stored the vowels & indices of them . reversed the vowels vector & re-added them into main string
+Stored the vowels thier indices in seperate vectors. Reversed the vowels vector & re-added them using indices vector into main string.
